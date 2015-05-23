@@ -11,3 +11,4 @@ Contribute
     architecture.rst
     documentation.rst
     web-site.rst
+	documentation-tutorial.rst

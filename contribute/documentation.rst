@@ -20,4 +20,4 @@ The user's guide contains "hand-written" information about the library. The user
 Contributions
 -------------
 
-Contributions to the documentation should be done the same way as for code. Clone the `repository <https://github.com/helix-toolkit/docs.git>`_, create a branch and submit a pull request when the changes are ready.
+Contributions to the documentation should be done the same way as for code. Clone the `repository <https://github.com/helix-toolkit/docs.git>`_, create a branch and submit a pull request when the changes are ready. A tutorial on how to build and change the documentation is located :doc:`here <documentation-tutorial>`.
