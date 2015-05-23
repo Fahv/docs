@@ -19,6 +19,12 @@ Getting the Documentation
 	
 .. image:: documentation-tutorial-images/CloneinDesktop.PNG
 
+5.  Select where you want the repository to be stored on your computer
+
+.. image:: documentation-tutorial-images/CloneLocation.PNG
+
+6. Congratulations the documentation is now on your local computer
+
 Building the Documentation
 ==========================
 

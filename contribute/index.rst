@@ -10,5 +10,5 @@ Contribute
     coding-style.rst
     architecture.rst
     documentation.rst
+    documentation-tutorial.rst
     web-site.rst
-	documentation-tutorial.rst
