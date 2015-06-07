@@ -54,13 +54,27 @@ Making your changes
 1. First find something that requires fixing
 	a. Some examples are:
 		* Fixing spelling errors
-		* Check the issue list `<https://github.com/helix-toolkit/docs/issues>_
+		* Check the issue list `<https://github.com/helix-toolkit/docs/issues/>`_
 		* Write a tutorial
+	b. A good idea is to use a new branch for each fix to make review easier
 2. Open the corresponding page.rst file
 3. Make your changes
 4. Run the make html.cmd file
-	a. Make sure no warnings
+	a. Make sure there are no warnings
 5. Check out your changes in the browser
 
 Publishing your changes
 =========================
+1. Run the make html.cmd file to ensure no warnings or errors with your changes
+2. Open github
+	a. Make sure you are in the correct branch
+3. Click the arrow next to Uncommitted changes
+4. Right a title and description of your changes
+5. Click Commit
+6. Click Sync
+	a. Top Right
+7. On GitHub.com navigate to your personal repository
+8. Select the branch you have been working on
+9. Click the Pull Request button
+10. Fill out a name and comment with any relevant images
+11. Click Create pull request
